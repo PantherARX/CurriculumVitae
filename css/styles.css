@@ -1,0 +1,220 @@
+body {
+    background-color: whitesmoke;
+    font-family: 'Montserrat', 'Arial';
+}
+
+li{
+    line-height: 30px;
+}
+
+/* Main container */
+
+.main-container{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: white;
+    width: 1200px;
+    margin: 40px auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* General info */
+
+.general-info{
+    padding: 90px 88px;
+}
+
+/* Description */
+
+.description {
+    margin-bottom: 40px;
+}
+
+.profession {
+    
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.main-title-section{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-top: 45px;
+}
+
+.orange-text{
+    color: orange;
+}
+
+.gray-text{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+
+.job-title{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 15px;
+    margin-bottom: 11px;
+}
+
+.list-experience{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    padding-left: 17px;
+}
+
+.my-name{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.paragraph-description{
+    width: 600px;
+}
+
+.projects{
+}
+
+.project-links{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    padding-left: 13px;
+    color: #595959;
+}
+
+.project-dots{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2px;
+    color: #595959;
+}
+
+.projects-list {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    padding-left: 17px;
+}
+
+.work-experience{
+    
+}
+
+.profession{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.education{
+    
+}
+
+/* side info */
+
+.side-info{
+    background-color: #1E2939;
+    padding: 40px 30px;
+    margin-right: 63px;
+}
+
+.side-title{
+    color: white;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-top: 50px;
+
+}
+
+.contacts, .tech-skills, .soft-skills{
+    color: white;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 27px;
+    margin-left: 25px;
+}
+
+.contacts{
+
+}
+
+.contact-type{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 5px;
+
+}
+
+.contact-info{
+    color: white;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+}
+
+/* List section */
+
+.side-list{
+    padding: 0;
+    padding-left: 20px;
+
+}
+
+.side-list > li{
+    color: orange;
+
+}
+
+.side-list-element{
+    color: white;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+/* Education section */
+
+.education-center{
+    color: orange;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 0px;
+}
+
+.grad-tittle{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    margin: 11px 0;
+}
